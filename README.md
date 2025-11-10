@@ -75,8 +75,8 @@ webdevelopment/
 
 I’m building this portfolio as part of my journey into software and web development.
 
-💼 LinkedIn
+💼 [LinkedIn](www.linkedin.com/in/iheanyi-okwara-90a3842a9)
 
-🧑‍💻 GitHub
+🧑‍💻 [GitHub](https://github.com/iheanyi-okwara/web-dev-practice.git)
 
 ✉️ Email: okwaraiheanyi@gmail.com
